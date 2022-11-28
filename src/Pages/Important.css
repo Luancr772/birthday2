@@ -1,0 +1,63 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+body {
+  line-height: 1.5;
+}
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+input,
+button,
+textarea,
+select {
+  outline: none;
+}
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  overflow-wrap: break-word;
+}
+.main {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.img {
+  margin: 0 auto;
+  margin-bottom: 100px;
+}
+
+.full_wish {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 50px;
+  background-color: pink;
+  border-radius: 20px;
+}
+
+.Wish {
+  font-size: 20px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.imgsub {
+  margin: 0 auto;
+}
