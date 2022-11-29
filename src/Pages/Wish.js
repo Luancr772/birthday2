@@ -129,6 +129,32 @@ const Wish = () => {
               alt=""
             />
           </div>
+
+          <div className="content flex items-center max-w-xs">
+            <img
+              className="mr-5 mt-20"
+              src="https://scontent.xx.fbcdn.net/v/t1.15752-9/315525618_677246993789493_4731743148417115896_n.png?stp=dst-png_p173x172&_nc_cat=107&ccb=1-7&_nc_sid=aee45a&_nc_ohc=cQV27fMTHN4AX_afdeq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdR8LwkybVyblxVxEFA71bNYycwVmnAgjQtTjcV8jSmrlA&oe=63AD0212"
+              alt=""
+            />
+            <img
+              className="w-full h-full"
+              src="https://scontent.fsgn2-5.fna.fbcdn.net/v/t1.15752-9/317254441_2804210999709078_4644334183602865495_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=YXa94kVn4QgAX-sIZ-N&_nc_ht=scontent.fsgn2-5.fna&oh=03_AdTehGLQ1kNGlppJyTaeLOtkrfu9gYFV8EJTuqDFoG_hlg&oe=63ACF7CD"
+              alt=""
+            />
+          </div>
+
+          <div className="content flex items-center max-w-xs">
+            <img
+              className="ml-28"
+              src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.15752-9/315203417_3506350759638072_3808686516488942956_n.png?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=Qym71ZjBPh0AX_ZbWLL&_nc_ht=scontent.fsgn2-2.fna&oh=03_AdT4o0JkuDCnav-4iosrp6YPNi6-6XWEvQbHHsyqqO-foA&oe=63AD20A2"
+              alt=""
+            />
+            <img
+              className="w-full h-full"
+              src="https://scontent.fsgn2-6.fna.fbcdn.net/v/t1.15752-9/312159686_1147360349256545_3610434458992868770_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=KbEvdhF7GZ0AX-VncdV&_nc_ht=scontent.fsgn2-6.fna&oh=03_AdQLEudEa274CT2QvO9r3dtBShzrVUJiLmFjzxV-CINC6w&oe=63AD1A37"
+              alt=""
+            />
+          </div>
         </div>
       </div>
     </Fragment>

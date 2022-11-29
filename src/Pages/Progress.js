@@ -69,8 +69,8 @@ const Progress = () => {
 
         <div className="flex">
           <div className="blog">
-            2h anh còn ngủ, tương tư về em biết bao giờ cho đủ aaaaaaaa. Đây là
-            hơn 2h sáng, một con người sống giờ Mỹ hé hé
+            2h anh còn chưa ngủ, tương tư về em biết bao nhiêu cho đủ aaaaaaaa.
+            Đây là lúc hơn 2h sáng, một con người sống giờ Mỹ hé hé
           </div>
 
           <img
@@ -87,7 +87,7 @@ const Progress = () => {
           />
 
           <div className="blog">
-            Đan tui cho em nìa, nhìn dị thuii chứ túi không đẹp lắm hahahaha
+            Đan túi cho em nìa, nhìn dị thuii chứ túi không đẹp lắm hahahaha
           </div>
         </div>
 

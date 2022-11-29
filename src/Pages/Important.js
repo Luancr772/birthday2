@@ -12,7 +12,7 @@ const Important = () => {
 
       <div className="full_wish">
         <span className="Wish">
-          Nay sinh nhật của em, anh chúc em ngày càng cute hơn nữa nè, mỗi người
+          Nay sinh nhật của em, anh chúc em ngày càng cute hơn nữa nè, mỗi ngày
           một niềm dui. Với lại là bớt xu nha bà, Gì đây mà xu cà na quá trời.
           Thén kiu đã bên anh, bây giờ và về sau cũng như thế nha bà, rời đi là
           tui quánh đít á. Mừng sinh nhật tuổi 19 của em .
